@@ -2,7 +2,7 @@
   "name": "sungin-helper",
   "version": "1.1.4",
   "description": "fe helper ",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
