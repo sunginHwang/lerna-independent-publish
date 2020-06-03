@@ -1,7 +1,7 @@
 {
   "packages": [
-    "util",
-    "helper"
+    "sungin-util",
+    "sungin-helper"
   ],
   "command": {
     "bootstrap": {

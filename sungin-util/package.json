@@ -1,7 +1,7 @@
 {
-  "name": "helper",
-  "version": "1.1.1",
-  "description": "fe helper ",
+  "name": "sungin-util",
+  "version": "1.0.4",
+  "description": "fe util ",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -17,5 +17,6 @@
   "dependencies": {
     "current-device": "^0.10.1",
     "jest": "^26.0.1"
-  }
+  },
+  "gitHead": "3fb4aa8c6cd89af901813e16eeb99e9cb9a70468"
 }

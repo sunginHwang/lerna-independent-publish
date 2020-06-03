@@ -1,7 +1,7 @@
 {
-  "name": "util",
-  "version": "1.0.4",
-  "description": "fe util ",
+  "name": "sungin-helper",
+  "version": "1.1.1",
+  "description": "fe helper ",
   "main": "index.js",
   "scripts": {
     "test": "jest"
