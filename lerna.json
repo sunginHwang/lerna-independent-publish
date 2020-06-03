@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "util",
+    "helper"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true,
+      "forceLocal": true
+    }
+  },
+  "version": "independent"
+}
