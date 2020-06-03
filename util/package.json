@@ -1,6 +1,6 @@
 {
   "name": "util",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "fe util ",
   "main": "index.js",
   "scripts": {
