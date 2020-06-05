@@ -17,5 +17,6 @@
   "dependencies": {
     "current-device": "^0.10.1",
     "jest": "^26.0.1"
-  }
+  },
+  "gitHead": "9df7a434a355e2c0e92b9c76fc9076cee798153b"
 }
